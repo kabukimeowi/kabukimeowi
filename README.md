@@ -1,4 +1,4 @@
-
+<p align="center"> <img width="700" src="IMG_4676.jpeg"></p>
 
 <!--
 **kabukimeowi/kabukimeowi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
